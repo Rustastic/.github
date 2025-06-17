@@ -1,4 +1,11 @@
-# Rustastic 🦀
+<div align="center">
+
+# 🦀 Rustastic 🦀
+
+<img alt="Rustastic" height="280" src="logo.jpeg" />
+
+</div>
+
 **Rustastic** is a student project group formed for the **Advanced Programming** course at the **University of Trento**.  
 Our work focuses on building a simulation of a drone-based communication network using the Rust programming language.
 
