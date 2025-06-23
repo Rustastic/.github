@@ -2,7 +2,7 @@
 
 # 🦀 Rustastic 🦀
 
-<img alt="Rustastic" height="280" src="logo.jpeg" />
+<img alt="Rustastic" height="280" src="profile/logo.jpeg" />
 
 </div>
 
