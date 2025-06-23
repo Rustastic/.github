@@ -17,7 +17,8 @@ Our work focuses on building a simulation of a drone-based communication network
 
 ## Roles
 - Andrea Carzeri:
-  - ...
+  - [Servers](https://github.com/Rustastic/Servers)
+  - [Part of the drone](https://github.com/Rustastic/RustasticDrone)
 - Alessandro Busola:
   - [NetworkInitializer](https://github.com/Rustastic/NetworkInitializer)
   - [SimulationController](https://github.com/Rustastic/SimulationController)
